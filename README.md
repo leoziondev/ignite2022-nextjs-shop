@@ -6,3 +6,7 @@ Typescript
 ```
 npm i typescript @types/react @types/node -D
 ```
+Stitches
+```
+npm i @stitches/react
+```
