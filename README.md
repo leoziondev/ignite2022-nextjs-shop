@@ -1,6 +1,13 @@
 # NextJS Ignite Shop
 __Ignite 2022 By Rocketseat__
 
+## Tecnologias usadas
+- NextJS
+- Typescript
+- Stripe Pagamentos
+- Stitches CSS-in-JS
+- Keen Slider
+
 ### Instalações neste Projeto
 Typescript
 ```
@@ -13,4 +20,8 @@ npm i @stitches/react
 Keen Slider
 ```
 npm i keen-slider
+```
+Stripe
+```
+npm i stripe
 ```
