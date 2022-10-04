@@ -10,3 +10,7 @@ Stitches
 ```
 npm i @stitches/react
 ```
+Keen Slider
+```
+npm i keen-slider
+```
