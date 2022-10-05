@@ -5,6 +5,7 @@ __Ignite 2022 By Rocketseat__
 - NextJS
 - Typescript
 - Stripe Pagamentos
+- Axios
 - Stitches CSS-in-JS
 - Keen Slider
 
@@ -24,4 +25,8 @@ npm i keen-slider
 Stripe
 ```
 npm i stripe
+```
+Axios
+```
+npm i axios
 ```
